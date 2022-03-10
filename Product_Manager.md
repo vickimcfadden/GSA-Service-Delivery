@@ -19,7 +19,7 @@ The GSA Service Delivery team will pair with GSA programs to expand digital serv
 GSA is looking for a talented product manager who will partner with GSA teams to deliver digital services to GSA customers, suppliers, government employees, and members of the public. You’ll work on a cross-functional team to solve large, complex problems and consult with GSA programs to deliver user-centered products using agile methodologies and modern software development practices.
 
 GSA is looking for a product manager with experience in: 
-- Understanding user needs and the problem space to articulate a product vision and roadmap to guide technical execution.
+- Understanding user needs and the problem space to articulate a product vision and roadmap to guide technical execution
 - Working on cross-functional development teams to develop and launch or grow existing, in-market products, platforms, or services
 - Consulting with teams to foster sustainable best practices for product development
 - Building alignment with stakeholders 
