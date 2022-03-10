@@ -84,7 +84,7 @@ As a content designer with the GSA Service Delivery team, you’ll be working as
 - Practice human-centered design, usability testing, feature prioritization, DevOps, test-driven development, and other relevant concepts
 - Promote transparency in how decisions are made – regularly includes others in planning and decision-making
 - Identify power dynamics in situations, and responds thoughtfully and open space equitably among team members
-- Promote collective success; plan and ensure time for collaborative decision-making; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
+- Promote collective success; plan and ensure time for collaborative decision-making; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability
 - Constructively addresses situations, issues, and behaviors – able to initiate difficult conversations and clearly communicate corrective actions
 - Recognize and flag stress and fatigue in others to support their continued wellbeing
 - Uses contradictory opinions as a basis for constructive, productive conversations
@@ -132,7 +132,7 @@ For each job on your resume, provide:
 - Number of hours per week you worked (if part time)
 
 To qualify for this role, you must have one year of specialized experience. Specialized experience is:
-1. Experience leading vision, direction, or roadmap for a product, platform, or service.
+1. Experience leading user research, usability testing, experience design, product design, or content design for a product, platform, or service.
 2. Experience with iterative or agile development methodologies. 
 3. Experience building alignment with stakeholders.
 
