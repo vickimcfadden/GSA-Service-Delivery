@@ -1,4 +1,4 @@
-# User Experience Designer
+# Content Designer
 GSA's Office of the Deputy Administrator is establishing a new GSA Service Delivery team. This cross-functional team of technical experts' mission is to evolve and expand digital service delivery capabilities across GSA to meaningfully impact end-user experiences. 
 
 The GSA Service Delivery team is hiring for a GS-15 permanent / career content designer. This is a remote position. 
