@@ -7,8 +7,8 @@ Product managers are crucial to improving GSA products, platforms, and service. 
 
 ## Attend an information session
 Attend an information session to learn more about this team, the role, and our application process: 
-- Monday, March 21 at 12:00 pm ET | [Google Meet](https://meet.google.com/mzm-woui-hsz?authuser=0) | [Google Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDQ2M2tmaGdjMWkwcmFuZWo4cmtqdjIwY20gdmljdG9yaWEubWNmYWRkZW5AZ3NhLmdvdg&tmsrc=victoria.mcfadden%40gsa.gov)
-- Tuesday, March 22 at 3:00 pm ET | [Google Meet](https://meet.google.com/aeb-krcb-hqe?authuser=0) | [Google Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N25kamMxYzhxamIzN2NmcDk2MXBwc245ZnQgdmljdG9yaWEubWNmYWRkZW5AZ3NhLmdvdg&tmsrc=victoria.mcfadden%40gsa.gov)
+- Monday, March 21 at 12:00 pm ET | [Google Meet](https://meet.google.com/mzm-woui-hsz?authuser=0) 
+- Tuesday, March 22 at 3:00 pm ET | [Google Meet](https://meet.google.com/aeb-krcb-hqe?authuser=0) 
 
 ## Opportunity Overview
 This opportunity is located in the General Services Administration (GSA), Office of the Deputy Administrator. GSA’s mission is to deliver value and savings in real estate, acquisition, and technology to the government and public. 
