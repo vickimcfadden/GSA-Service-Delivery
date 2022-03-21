@@ -8,3 +8,6 @@ The GSA Service Delivery team is hiring for three [GS-15](https://www.opm.gov/po
 - [Product Manager](https://github.com/vickimcfadden/GSA-Service-Delivery/blob/main/Product_Manager.md)
 - [User Experience Designer](https://github.com/vickimcfadden/GSA-Service-Delivery/blob/main/User_Experience_Designer.md)
 - [Content Designer](https://github.com/vickimcfadden/GSA-Service-Delivery/blob/main/Content_Designer.md)
+
+## Information Session
+The deck can be found [here](https://github.com/vickimcfadden/GSA-Service-Delivery/issues/1). 
