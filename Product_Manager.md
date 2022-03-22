@@ -5,11 +5,6 @@ The GSA Service Delivery team is hiring for a GS-15 permanent / career product m
 
 Product managers are crucial to improving GSA products, platforms, and service. This is an opportunity to make a huge impact in the lives of public servants, GSA customers, GSA suppliers, and members of the public.
 
-## Attend an information session
-Attend an information session to learn more about this team, the role, and our application process: 
-- Monday, March 21 at 12:00 pm ET | [Google Meet](https://meet.google.com/mzm-woui-hsz?authuser=0) 
-- Tuesday, March 22 at 3:00 pm ET | [Google Meet](https://meet.google.com/aeb-krcb-hqe?authuser=0) 
-
 ## Opportunity Overview
 This opportunity is located in the General Services Administration (GSA), Office of the Deputy Administrator. GSA’s mission is to deliver value and savings in real estate, acquisition, and technology to the government and public. 
 
