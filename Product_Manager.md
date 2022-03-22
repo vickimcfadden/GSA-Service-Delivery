@@ -30,7 +30,7 @@ If this sounds interesting to you, you should apply!
 
 ### Key Objectives
 
-#### Key Objective #1: Build or steward the product vision and advise on end-to-end product development
+#### Key Objective 1: Build or steward the product vision and advise on end-to-end product development
 You are an experienced product manager who can unite vision and execution to lead an interdisciplinary team in delivering the right value to the right people. You’re skilled at defining meaningful objectives and galvanizing your team to deliver results to end-users.
 
 Successful product managers on the GSA Service delivery team:
@@ -43,7 +43,7 @@ Successful product managers on the GSA Service delivery team:
 - Use evidence (user research, analytics, usability testing, and other metrics) to make product decisions
 - Energize and motivate the team by recognizing successes and learning from failures
 
-#### Key Objective #2: Support GSA partners in delivering results to end-users
+#### Key Objective 2: Support GSA partners in delivering results to end-users
 As a product manager with the GSA Service Delivery team, a big part of the job is creating sustainable outcomes and benefits to GSA customers, suppliers, government employees, and the public. You’ll help ensure products, platforms, and services are sustained for long-term success. As part of that, you’ll share your expertise and experience with your teammates and GSA stakeholders to build product management best practices across the agency. 
 
 Successful product managers on the GSA Service delivery team:
@@ -56,7 +56,7 @@ Successful product managers on the GSA Service delivery team:
 - Lead change across GSA to meet mission needs and organizational goals
 - Develop new insights into situations and question conventional approaches
 
-#### Key Objective #3: Positively contribute to the culture and knowledge of a cross-functional team
+#### Key Objective 3: Positively contribute to the culture and knowledge of a cross-functional team
 As a product manager with the GSA Service Delivery team, you’ll be working as part of a small, distributed, multidisciplinary agile team. You’ll participate in constructive discussions, openly share knowledge, and demonstrate value for your teammate’s contributions. 
 - Create a work environment that fosters trust, respect, and collaboration, since the best work comes from including diverse skill sets and backgrounds
 - Provide visibility into each project’s progress, communicate blockers and challenges, and ask for help when you need it
