@@ -30,7 +30,7 @@ If this sounds interesting to you, you should apply!
  
 ### Key Objectives
 
-#### Key Objective #1: Demonstrate excellence in design research and prototyping and advise on end-to-end product development
+#### Key Objective 1: Demonstrate excellence in design research and prototyping and advise on end-to-end product development
 You are an experienced user experience designer who can improve the interactions between users and GSA products, platforms, or services. You’re skilled at understanding user needs and designing solutions that are intuitive, simple, and accessible. 
 
 Successful user experience designers on the GSA Service delivery team:
@@ -51,7 +51,7 @@ While not required, experience with one or more of the following would be useful
 - Service design: Improve the relationship of users and the service provider across all of their interactions and communication channels
 - Product design: Develop clear and accessible visual systems, while improving the system, process, and/or interface for users 
 
-#### Key Objective #2: Support GSA partners in delivering results to end-users
+#### Key Objective 2: Support GSA partners in delivering results to end-users
 As a user experience designer with the GSA Service Delivery team, a big part of the job is creating sustainable outcomes and benefits to GSA customers, suppliers, government employees, and the public. You’ll help ensure products, platforms, and services are sustained for long-term success. As part of that, you’ll share your expertise and experience with your teammates and GSA stakeholders to build user-centered design best practices across the agency. 
 
 Successful user experience designers on the GSA Service delivery team:
@@ -64,7 +64,7 @@ Successful user experience designers on the GSA Service delivery team:
 - Lead change across GSA to meet mission needs and organizational goals
 - Develop new insights into situations and question conventional approaches
 
-#### Key Objective #3: Positively contribute to the culture and knowledge of a cross-functional team
+#### Key Objective 3: Positively contribute to the culture and knowledge of a cross-functional team
 As a user experience designer with the GSA Service Delivery team, you’ll be working as part of a small, distributed, multidisciplinary agile team. You’ll participate in constructive discussions, openly share knowledge, and demonstrate value for your teammate’s contributions. 
 - Create a work environment that fosters trust, respect, and collaboration, since the best work comes from including diverse skill sets and backgrounds
 - Provide visibility into each project’s progress, communicate blockers and challenges, and ask for help when you need it
