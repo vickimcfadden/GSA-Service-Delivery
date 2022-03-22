@@ -10,4 +10,7 @@ The GSA Service Delivery team is hiring for three [GS-15](https://www.opm.gov/po
 - [Content Designer](https://github.com/vickimcfadden/GSA-Service-Delivery/blob/main/Content_Designer.md)
 
 ## Information Session
-The deck can be found [here](https://github.com/vickimcfadden/GSA-Service-Delivery/issues/1). 
+The informarmation sessions are now over but the deck can be found [here](https://github.com/vickimcfadden/GSA-Service-Delivery/issues/1). 
+
+## Questions
+Please email victoria.mcfadden@gsa.gov. 
